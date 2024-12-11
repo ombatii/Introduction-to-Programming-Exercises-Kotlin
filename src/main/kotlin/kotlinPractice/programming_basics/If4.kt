@@ -1,4 +1,4 @@
-package programming_basics
+package kotlinPractice.programming_basics
 
 fun main(){
     val n: Int = 11

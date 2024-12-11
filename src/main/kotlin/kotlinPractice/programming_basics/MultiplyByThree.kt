@@ -1,4 +1,4 @@
-package programming_basics
+package kotlinPractice.programming_basics
 
 fun multiplyByThree(x: Int, y:Int , z: Int) : Int = x * y * z
 

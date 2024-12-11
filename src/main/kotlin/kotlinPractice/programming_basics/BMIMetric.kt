@@ -1,4 +1,4 @@
-package programming_basics
+package kotlinPractice.programming_basics
 
 /*
 let’s calculate body mass index (BMI), which is weight in kilograms divided

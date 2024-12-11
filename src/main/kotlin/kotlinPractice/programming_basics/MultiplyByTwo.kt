@@ -1,4 +1,4 @@
-package programming_basics
+package kotlinPractice.programming_basics
 
 fun multiplyByTwo (x: Int, y:Int ): Int {
     println("Multiplication of two Numbers")
